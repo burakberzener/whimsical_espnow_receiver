@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "whimsical_robot_blue",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iterator": "cpp",
+			"limits": "cpp",
+			"*.tcc": "cpp"
+		}
+	}
+}

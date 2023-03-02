@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "whimsical_robot_blue",
+			"path": ".."
+		},
+		{
+			"name": "whimsical_master",
+			"path": "../../whimsical_master"
+		},
+		{
+			"name": "whimsical_robot_yellow",
+			"path": "../../whimsical_robot_yellow"
+		},
+		{
+			"name": "ultrasonic_test",
+			"path": "../../ultrasonic_test"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"algorithm": "cpp",
+			"iterator": "cpp",
+			"random": "cpp",
+			"functional": "cpp"
+		}
+	}
+}
